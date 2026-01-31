@@ -24,6 +24,32 @@ public class Operators {
         boolean fl3 = !!fl1;
         System.out.println(fl3);
 
+        int a = 5;
+        int b = 7;
+        boolean result = a==b;
+        System.out.println(result);
+        boolean result1 = a!=b;
+        System.out.println(result1);
+
+        // &&, ||
+        boolean first = true;
+        boolean second = false;
+        System.out.println(first && second);
+        System.out.println(first || second);
+
+        int q = 12;
+        int r = 6;
+        int someValue = 10;
+        someValue += r + q;
+        System.out.println(someValue);
+
+        int n = 8;
+        int m = 4;
+        String res = m > n ? "Thats true" : "Thats false";
+        System.out.println(res);
+
+
+
 
 
     }
