@@ -1,6 +1,6 @@
 package A_basics.E_conceptsBasics.A_basicMaths;
 
-public class CountAllOddDigits {
+public class B_CountAllOddDigits {
     public static void main(String[] args) {
         System.out.println( countAllOddDigits(15));
     }

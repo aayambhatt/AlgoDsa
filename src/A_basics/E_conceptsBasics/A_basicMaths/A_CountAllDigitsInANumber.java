@@ -1,6 +1,6 @@
 package A_basics.E_conceptsBasics.A_basicMaths;
 
-public class CountAllDigitsInANumber {
+public class A_CountAllDigitsInANumber {
     public static void main(String[] args) {
         System.out.println(CountDigits(24));
     }
